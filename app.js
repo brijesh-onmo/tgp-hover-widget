@@ -3,7 +3,7 @@
   if (window.__appAWidgetLoaded) return;
   window.__appAWidgetLoaded = true;
 
-  const APP_A_URL = "https://keyclient1.virtualconsole.gg";
+  const APP_A_URL = "https://keyclient1.onmogaming.com";
 
   // Create button
   const btn = document.createElement("button");
